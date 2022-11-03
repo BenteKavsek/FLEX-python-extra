@@ -30,4 +30,4 @@ tekengebied.multiline_text((tekst_x-2, tekst_y-2), tekst, font=lettertype, fill=
 achtergrond.show()
 
 # En opslaan onder een andere naam
-# achtergrond.save("meme_met_tekst.png")
+achtergrond.save("meme_met_tekst.png")
